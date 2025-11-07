@@ -1,0 +1,26 @@
+[
+  {
+    "message": "Contact request submitted and email sent successfully",
+    "data": {
+      "id": 2031,
+      "name": "Sanidhey Test",
+      "email": "test@gamil.com",
+      "phone": "7894532125",
+      "message": "Test request",
+      "created_at": "2025-11-07T17:06:02.062770Z",
+      "updated_at": "2025-11-07T17:06:02.062788Z"
+    }
+  },
+  {
+    "message": "Contact request submitted and email sent successfully",
+    "data": {
+      "id": 2032,
+      "name": "Rohan Test",
+      "email": "test@gamil.com",
+      "phone": "7894548925",
+      "message": "Test request Rohan",
+      "created_at": "2025-11-07T17:07:16.632024Z",
+      "updated_at": "2025-11-07T17:07:16.632074Z"
+    }
+  }
+]

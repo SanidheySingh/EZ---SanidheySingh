@@ -1,0 +1,23 @@
+@import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap'); */
+
+html, body{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.island-moments-regular {
+  font-family: "Island Moments", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.halant-regular {
+  font-family: "Halant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.instrument-regular {
+  font-family: "Instrument Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
