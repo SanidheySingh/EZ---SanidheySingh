@@ -137,3 +137,7 @@ This project imports fonts from `@fontsource` (e.g. `island-moments`, `halant`) 
 - `npm run preview` — locally preview production build
 - `npm run lint` — run ESLint
 
+
+Deployed Version : ez-sanidhey-singh.vercel.app
+
+
